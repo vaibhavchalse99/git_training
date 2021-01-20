@@ -4,3 +4,4 @@ skills - NodeJs, ExpressJs, MongoDB, GraphQL
 Course - BE-Computer 
 Age - 21
 registraction status - Done
+payment status - Done
